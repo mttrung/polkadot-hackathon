@@ -1,5 +1,5 @@
 # polkadot-hackathon
 
-### Set An Identity On Kusama Or Polkadot's Development Version
+### Forkless Upgrades
 
 ![forkless-upgrades](forkless-upgrades.png)
